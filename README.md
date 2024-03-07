@@ -4,6 +4,7 @@ Title (example): Predict the age of abalone from physical measurements
 Introduction:
 - Provide some relevant background information on the topic so that someone unfamiliar with it will be prepared to understand the rest of your proposal
 - Clearly state the question you will try to answer with your project
+- How accurately can we predict the age of an abalone from the entire weight and diameter of the shell?
 - Identify and describe the dataset that will be used to answer the question
 
 Preliminary exploratory data analysis:
